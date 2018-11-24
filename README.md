@@ -6,7 +6,7 @@
 
 ## 1. 入门篇----入门模拟
 
-### 3.1 简单模拟
+### 1.1 简单模拟
  
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
@@ -18,15 +18,18 @@
 
 **1009题使用Java卡会最后一个测试点**
 
-### 3.2 查找元素
+### 1.2 查找元素
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
-| 1011 | [World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1011/Main.java) | 模拟 |
-| 1006 | [Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1006/Main.java) | 模拟 |
-| 1036 | [Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1036/Main.java) | 模拟 |
+| 1011 | [World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1011/Main.java) | 查找 |
+| 1006 | [Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1006/Main.java) | 查找 |
+| 1036 | [Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1036/Main.java) | 查找 |
 
+### 1.3 打印图形
 
-
+| 编号 | 标题                                                         |                             题解                             | 分类 |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
+| 1031 | [Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1031/Main.java) | 输出 |
 
 
 参考书籍：《算法笔记上机训练实战指南》
