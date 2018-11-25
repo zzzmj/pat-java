@@ -36,6 +36,9 @@
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
 | 1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1019/Main.java) | 进制转换 |
+| 1027 | [Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1027/Main.java) | 进制转换 |
+| 1058 | [A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1058/Main.java) | 进制转换 |
+
 
 
 参考书籍：《算法笔记上机训练实战指南》
