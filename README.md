@@ -40,5 +40,15 @@
 | 1058 | [A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1058/Main.java) | 进制转换 |
 
 
+### 1.5 字符串处理
+
+| 编号 | 标题                                                         |                             题解                             | 分类 |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
+| 1001 | [A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1001/Main.java) | 字符串 |
+| 1005 | [Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1005/Main.java) | 字符串 |
+| 1035 | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1035/Main.java) | 字符串 |
+
+
+
 
 参考书籍：《算法笔记上机训练实战指南》
