@@ -47,6 +47,7 @@
 | 1001 | [A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1001/Main.java) | 字符串 |
 | 1005 | [Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1005/Main.java) | 字符串 |
 | 1035 | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1035/Main.java) | 字符串 |
+| 1077 | [Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1077/Main.java) | 字符串 |
 
 
 
