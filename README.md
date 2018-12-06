@@ -4,9 +4,9 @@
 
 
 
-## 1. 入门篇----入门模拟
 
-### 1.1 简单模拟
+
+### 简单模拟
  
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
@@ -18,20 +18,20 @@
 
 **1009题使用Java卡会最后一个测试点**
 
-### 1.2 查找元素
+### 查找元素
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
 | 1011 | [World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1011/Main.java) | 查找 |
 | 1006 | [Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1006/Main.java) | 查找 |
 | 1036 | [Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1036/Main.java) | 查找 |
 
-### 1.3 打印图形
+### 打印图形
 
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
 | 1031 | [Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1031/Main.java) | 输出 |
 
-### 1.4 进制转换
+### 进制转换
  
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
@@ -40,7 +40,7 @@
 | 1058 | [A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1058/Main.java) | 进制转换 |
 
 
-### 1.5 字符串处理
+### 字符串处理
 
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
@@ -49,7 +49,14 @@
 | 1035 | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1035/Main.java) | 字符串 |
 | 1077 | [Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1077/Main.java) | 字符串 |
 
+**1077题卡第一个和最后一个测试点**
 
+### 贪心
 
+| 编号 | 标题                                                         |                             题解                             | 分类 |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
+| 1070 | [Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1070/Main.java) | 贪心 |
+
+**1070题卡第三个测试点**
 
 参考书籍：《算法笔记上机训练实战指南》
