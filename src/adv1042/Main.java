@@ -9,7 +9,7 @@ public class Main {
     static final int n = 54;
 
     public static void main(String[] args) throws IOException {
-        char[] ch = { 'S', 'H', 'C', 'D' };
+        char[] ch = {'S', 'H', 'C', 'D'};
         ArrayList<String> list = new ArrayList<String>();
         for (int i = 0; i < 4; i++) {
             for (int j = 1; j <= 13; j++) {
