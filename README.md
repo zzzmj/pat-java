@@ -69,5 +69,8 @@
 | 1059 | [Prime Factors](https://pintia.cn/problem-sets/994805342720868352/problems/994805415005503488) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1059/Main.java) | 分解质因数 |
 | 1096 | [Consecutive Factors](https://pintia.cn/problem-sets/994805342720868352/problems/994805370650738688) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1096/Main.java) | 分解因子 |
 
+### 搜索
+| 编号 | 标题                                                         |                             题解                             | 分类 |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
+| 1103 | [Integer Factorization](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1103/Main.java) | 深搜 |
 
-参考书籍：《算法笔记上机训练实战指南》
