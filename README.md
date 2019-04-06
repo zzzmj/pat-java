@@ -56,7 +56,7 @@
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
 | 1070 | [Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1070/Main.java) | 贪心 |
-| 1037 | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1037/Main.java) | 贪心 |
+| 1037 | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) | [Java/C++](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1037/Main.java) | 贪心 |
 
 **1070题卡第三个测试点**
 **1037题卡两个点, 用c提交都能过。。特别第二个点让我很奇怪，居然是答案错误。拿C重写了一遍都没错=。=**
@@ -73,4 +73,6 @@
 | 编号 | 标题                                                         |                             题解                             | 分类 |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
 | 1103 | [Integer Factorization](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224) | [Java](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1103/Main.java) | 深搜 |
+| 1091 | [Acute Stroke](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072) | [Java/C++](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1091/Main.java) | 广搜 |
 
+**1091题卡内存，Java过不了=。=。C重写了一遍能过**
