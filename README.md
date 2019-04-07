@@ -76,3 +76,8 @@
 | 1091 | [Acute Stroke](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072) | [Java/C++](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1091/Main.java) | 广搜 |
 
 **1091题卡内存，Java过不了=。=。C重写了一遍能过**
+
+### 二叉树的遍历
+| 编号 | 标题                                                         |                             题解                             | 分类 |
+| ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | ---- |
+| 1020 | [Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) | [Java/C++](https://github.com/zzzmj/PAT_JAVA/blob/master/src/adv1020/Main.java) | 根据后序中序求层序 |
